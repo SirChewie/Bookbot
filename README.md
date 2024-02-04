@@ -1,2 +1,3 @@
 # Bookbot
- A Bookbot for Boot.dev
+BookBot is my git project!
+
